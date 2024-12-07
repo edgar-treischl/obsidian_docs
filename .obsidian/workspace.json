@@ -11,10 +11,14 @@
             "id": "905d20e88c1a6742",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "R/Snippets.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Snippets"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Snippets"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Snippets"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "R/Snippets.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Snippets"
             }
           },
           {
@@ -191,10 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "905d20e88c1a6742",
+  "active": "87061e849dea4529",
   "lastOpenFiles": [
+    "SQL/Snippets.md",
     "R/Snippets.md",
     "README.md",
+    "SQL",
     "R"
   ]
 }
