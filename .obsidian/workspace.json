@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "28e7537a936d63d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4274cf240c2b10ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7fae05201c252b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R/Snippets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Snippets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2465142a5c6cd150",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb9fa1d49f1e50c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "097fe9cac893c9c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a601995fdf4a01e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f62c64033e1e0c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6931e623fb1f9378",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6836c9af8dda33a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28d3908c55ca8eba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "R/Snippets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Snippets"
+            }
+          },
+          {
+            "id": "8e0e41349f9dd39b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "R/Snippets.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Snippets"
+            }
+          },
+          {
+            "id": "1e513328a6363df6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "65c81914d633b055",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "R/Snippets.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Snippets"
+            }
+          },
+          {
+            "id": "87c60ea8fb0dca65",
+            "type": "leaf",
+            "state": {
+              "type": "r-environment-view",
+              "state": {},
+              "icon": "table",
+              "title": "R Environment"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "d5ec8d1573496803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db2ab0f5eea7377b",
+            "type": "leaf",
+            "state": {
+              "type": "r-help-view",
+              "state": {},
+              "icon": "info",
+              "title": "R Help"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "097fe9cac893c9c1",
+  "lastOpenFiles": [
+    "R/Snippets.md",
+    "R"
+  ]
+}
