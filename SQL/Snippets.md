@@ -10,21 +10,4 @@ CREATE TABLE lss_surveys (
 
 ```
 
-Minimal working example
-
-```sql
-library(DBI)
-library(RSQLite)
-
-# Create in-memory RSQLite database
-con <- dbConnect(drv = RSQLite::SQLite(), 
-                 dbname = ":memory:")
-
-#Write a table into the data base
-dbWriteTable(conn = con, 
-             name = "mtcars", 
-             value = mtcars)
-
-library(sqldf)
-sqldf('select avg(mpg) from mtcars;')
-```
+To run a minimal example in R, see [[R/Snippets|Snippets]]

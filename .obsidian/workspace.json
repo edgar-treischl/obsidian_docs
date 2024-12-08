@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d6438ae9e386401",
+        "id": "a4625484c0a3b603",
         "type": "tabs",
         "children": [
           {
-            "id": "ba525fdf39d43d76",
+            "id": "63ec4b482cbf60d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R/Snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Snippets"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R/Snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Snippets"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "R/Snippets.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Snippets"
             }
           },
           {
@@ -182,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,14 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87061e849dea4529",
+  "active": "63ec4b482cbf60d4",
   "lastOpenFiles": [
+    "R/scripts/text.md",
     "R/Snippets.md",
-    "R/scripts/Credly.md",
-    "R/index.md",
     "R/scripts/Sozialer Aufstieg.md",
-    "R/scripts/Cron Job.md",
+    "R/scripts/Credly.md",
+    "R/My code file. R",
+    "R/index.md",
     "SQL/Snippets.md",
+    "R/scripts/cronR.md",
+    "R/text.R",
     "Sozialer Aufstieg.pdf",
     "R/plots/plot_6b86b273_2_20241207204036.jpg",
     "README.md",
